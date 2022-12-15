@@ -1,11 +1,9 @@
+--Data download check
 
 SELECT* From PortfolioProject.dbo.CovidDeaths
 WHERE continent is NOT NULL
 ORDER BY 3,4
 
---SELECT * 
---FROM PortfolioProject.dbo.CovidDeaths
---WHERE location like '%income%'
 
 SELECT* From PortfolioProject.dbo.CovidVaccinations
 ORDER BY 3,4
