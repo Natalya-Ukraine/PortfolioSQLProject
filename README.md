@@ -1,1 +1,1 @@
-#SQL Data Analysis Portfolio Project 
+SQL Data Analysis Portfolio Project 
